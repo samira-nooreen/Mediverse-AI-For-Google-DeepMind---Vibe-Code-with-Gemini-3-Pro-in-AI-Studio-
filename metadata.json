@@ -1,0 +1,8 @@
+{
+  "name": "Mediverse AI",
+  "description": "A multimodal hospital intelligence system helping patients and caregivers with ER triage, queue prediction, medicine safety, and more.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
